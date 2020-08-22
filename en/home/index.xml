@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on JHT::DM::UNS</title>
+    <link>/webs/jtoloza/en/home/</link>
+    <description>Recent content in Homes on JHT::DM::UNS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2017 Julio H. Toloza</copyright>
+    <lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/webs/jtoloza/en/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/webs/jtoloza/en/home/about/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/webs/jtoloza/en/home/about/</guid>
+      <description>About me I am a professor in the Departamento de Matemática at the Universidad Nacional del Sur (Argentina). I am also a researcher at CONICET and a member of the Instituto de Matemática de Bahía Blanca.
+You can learn a little bit more about me here.</description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>/webs/jtoloza/en/home/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/webs/jtoloza/en/home/publications/</guid>
+      <description>Preprints  J. H. Toloza, A. Uribe; Oversampling and aliasing in de Branges spaces arising from Bessel operators, arXiv:1910.12146 
+ R. del Rio, L. O. Silva, J. H. Toloza; Extremal properties of spectral measures, arXiv:1807.06150 
+  Articles  L. O. Silva, J. H. Toloza; Selfadjoint extensions of the multiplication operator in de Branges spaces as singular rank-one perturbations, Complex Var. Elliptic Equ. (2018) 
+ L. O.</description>
+    </item>
+    
+    <item>
+      <title>Recent talks</title>
+      <link>/webs/jtoloza/en/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/webs/jtoloza/en/home/talks/</guid>
+      <description>Sobre el análisis espectral de operadores de Schrödinger en intervalos finitos, 16/11/2018, Seminario del Departamento de Matemática UNS, Bahía Blanca, Argentina 
+ Operadores de Bessel, operadores n-enteros, y espacios de De Branges, 01/06/2018, Encuentro de sociedades de matemáticas de Colombia y México, Barranquilla, Colombia 
+ Operadores n-enteros, espacios de De Branges, y análisis espectral de operadores de Schrödinger, 11/24/2017, Seminario del Departamento de Matemática UNS, Bahía Blanca, Argentina</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/webs/jtoloza/en/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/webs/jtoloza/en/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

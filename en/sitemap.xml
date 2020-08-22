@@ -1,0 +1,72 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/webs/jtoloza/en/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/webs/jtoloza/" hreflang="es"/>
+    
+      <loc>/webs/jtoloza/en/</loc>
+      <lastmod>2018-11-08T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/webs/jtoloza/en/publications/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/webs/jtoloza/publications/" hreflang="es"/>
+    
+      <loc>/webs/jtoloza/en/publications/</loc>
+      <lastmod>2018-11-08T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/webs/jtoloza/en/publications/publications-all/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/webs/jtoloza/publications/publications-all/" hreflang="es"/>
+    
+      <loc>/webs/jtoloza/en/publications/publications-all/</loc>
+      <lastmod>2018-11-08T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/webs/jtoloza/en/categories/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/webs/jtoloza/categories/" hreflang="es"/>
+    
+      <loc>/webs/jtoloza/en/categories/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/webs/jtoloza/en/publication_types/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/webs/jtoloza/publication_types/" hreflang="es"/>
+    
+      <loc>/webs/jtoloza/en/publication_types/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/webs/jtoloza/en/tags/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/webs/jtoloza/tags/" hreflang="es"/>
+    
+      <loc>/webs/jtoloza/en/tags/</loc>
+    </url>
+    
+  
+</urlset>

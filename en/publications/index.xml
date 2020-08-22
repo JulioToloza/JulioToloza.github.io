@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on JHT::DM::UNS</title>
+    <link>/webs/jtoloza/en/publications/</link>
+    <description>Recent content in Publications on JHT::DM::UNS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2017 Julio H. Toloza</copyright>
+    <lastBuildDate>Thu, 08 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/webs/jtoloza/en/publications/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Publications</title>
+      <link>/webs/jtoloza/en/publications/publications-all/</link>
+      <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/webs/jtoloza/en/publications/publications-all/</guid>
+      <description>Preprints  J. H. Toloza, A. Uribe; Oversampling and aliasing in de Branges spaces arising from Bessel operators, arXiv:1910.12146 
+ R. del Rio, L. O. Silva, J. H. Toloza; Extremal properties of spectral measures, arXiv:1807.06150 
+  Articles  L. O. Silva, J. H. Toloza; Selfadjoint extensions of the multiplication operator in de Branges spaces as singular rank-one perturbations, Complex Var. Elliptic Equ. (2018) 
+ L. O.</description>
+    </item>
+    
+  </channel>
+</rss>

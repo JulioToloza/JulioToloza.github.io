@@ -1,0 +1,81 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/webs/jtoloza/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="/webs/jtoloza/en/" hreflang="en"/>
+    
+      <loc>/webs/jtoloza/</loc>
+      <lastmod>2018-11-08T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/webs/jtoloza/publications/publications-all/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="/webs/jtoloza/en/publications/publications-all/" hreflang="en"/>
+    
+      <loc>/webs/jtoloza/publications/publications-all/</loc>
+      <lastmod>2018-11-08T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/webs/jtoloza/publications/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="/webs/jtoloza/en/publications/" hreflang="en"/>
+    
+      <loc>/webs/jtoloza/publications/</loc>
+      <lastmod>2018-11-08T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/webs/jtoloza/tags/academic/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/webs/jtoloza/categories/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="/webs/jtoloza/en/categories/" hreflang="en"/>
+    
+      <loc>/webs/jtoloza/categories/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/webs/jtoloza/publication_types/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="/webs/jtoloza/en/publication_types/" hreflang="en"/>
+    
+      <loc>/webs/jtoloza/publication_types/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/webs/jtoloza/tags/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="/webs/jtoloza/en/tags/" hreflang="en"/>
+    
+      <loc>/webs/jtoloza/tags/</loc>
+    </url>
+    
+  
+</urlset>
